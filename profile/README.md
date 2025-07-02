@@ -3,7 +3,7 @@
 
 ## 🏢 About Durgaai Solutions - Organisations
 
-🚀 We Are A Leading AI-Powered Software Development Company . We Specialize In **Cutting-Edge AI**, **Web Development**, **Mobile Apps**, **ERP**, And **Enterprise-Level Software Solutions** Tailored To Modern Businesses.
+🚀 We Are a Premier AI-Powered Software Development Company Driving the Future of Intelligent Innovation : Tailored To Modern Businesses.
 
 #### 💼 What We Offer:
 - 🔹 **AI Integration Software** – Seamlessly Integrating AI To Elevate Business Efficiency.
